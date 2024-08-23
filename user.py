@@ -1,0 +1,20 @@
+#Get input from user(without using intger)
+name=input()
+age=input()
+print("My name is ",name)
+print("My age is",age)
+#Get input from user(with intger)
+a=int(input())
+b=int(input())
+c=int(input())
+d=a*b*c
+e=a+b+c
+f=d/e
+print(f)
+#Get input from user(using intger& string)
+name=input()
+score=int(input())
+department=input()
+print(name)
+print(score/10)
+print(department)
